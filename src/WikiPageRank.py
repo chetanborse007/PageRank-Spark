@@ -5,7 +5,7 @@
                  in corpus.
                  It consists both types of links,
                     a. Crawled links
- 					b. Links that are not crawled yet
+ 				            b. Links that are not crawled yet
 @Author:         Chetan Borse
 @EMail:          cborse@uncc.edu
 @Created on:     10/31/2016
